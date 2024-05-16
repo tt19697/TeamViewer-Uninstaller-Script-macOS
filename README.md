@@ -3,7 +3,7 @@
 
 This script is designed to fully uninstall TeamViewer and/or TeamViewer Host from macOS. It ensures that all related processes are terminated, and all associated files and directories are removed.
 
-Place this script in to any desired MDM, like Jamf or use the script standalone. When using standalone, ensure you make the .sh file executable (chmod +x location/of/script.sh)
+Place this script in to any desired MDM, like Jamf or use the script standalone. When using standalone, ensure you make the .sh file executable (chmod +x /location/of/script.sh)
 
 ## Usage
 
